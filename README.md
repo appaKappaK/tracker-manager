@@ -194,7 +194,7 @@ The application follows MVC architecture:
 
 ### Plugin System
 
-Extend functionality by implementing the `Plugin` base class:
+Extend functionality by implementing the `services/plugin_base` class:
 
 ```python
 from plugin_base import Plugin
